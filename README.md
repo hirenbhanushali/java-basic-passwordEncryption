@@ -1,4 +1,4 @@
-# java-basic--passwordEncryption
+# java-basic-passwordEncryption
 Generating a strong password.
 
 While creating new passwords each day, websites now require you to generate a strong password.
